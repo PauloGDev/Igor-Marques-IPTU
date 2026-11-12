@@ -12,7 +12,8 @@
   "professional": {
     "name": "Igor Marques",
     "officeName": "Macedo Marques Advocacia",
-    "oab": "",
+    "oab": "OAB/PA 29.277",
+    "photo": "./assets/igor-marques.png",
     "area": "Direito Tributário",
     "experienceYears": 8,
     "biography": "Sou advogado com oito anos de experiência em Direito Tributário. Meu trabalho é ajudar pessoas e empresas a pagar apenas o que é devido, analisando cobranças, identificando possíveis excessos e buscando os caminhos legais para corrigi-los.",
@@ -142,9 +143,8 @@
     "readyToPublish": false
   },
   "pending": [
-    "Informar número da OAB e UF — usuário respondeu enviar depois.",
     "Validar o conteúdo jurídico final, especialmente eventual tese sobre imóveis construídos a partir de 2016.",
     "Informar endereço e horários apenas se desejar divulgar atendimento presencial.",
-    "Fornecer fotos do profissional e marca oficial, se desejar substituir a assinatura tipográfica."
+    "Fornecer marca oficial, se desejar substituir a assinatura tipográfica."
   ]
 }
