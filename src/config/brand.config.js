@@ -1,0 +1,1 @@
+export const defaultBrand={logoText:"MM",colors:{primary:"#c9a66b",primaryStrong:"#b48d51",accent:"#0c1b2c",surface:"#ffffff",background:"#faf9f6",text:"#0c1b2c",muted:"#616971"},fonts:{display:"Georgia, 'Times New Roman', serif",body:"Arial, sans-serif"},radius:"4px"};

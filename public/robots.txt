@@ -1,0 +1,3 @@
+# Prévia: noindex no HTML até informar a OAB e aprovar a publicação.
+User-agent: *
+Allow: /

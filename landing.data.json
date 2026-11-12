@@ -1,0 +1,150 @@
+{
+  "project": {
+    "name": "Macedo Marques Advocacia",
+    "displayName": "Macedo Marques Advocacia",
+    "conversionAction": "WhatsApp",
+    "slug": "macedo-marques",
+    "sourceTemplate": "Template 1",
+    "sourceVersion": "1.2.0",
+    "siteUrl": "https://macedomarquesadv.com.br",
+    "year": 2026
+  },
+  "professional": {
+    "name": "Igor Marques",
+    "officeName": "Macedo Marques Advocacia",
+    "oab": "",
+    "area": "Direito Tributário",
+    "experienceYears": 8,
+    "biography": "Sou advogado com oito anos de experiência em Direito Tributário. Meu trabalho é ajudar pessoas e empresas a pagar apenas o que é devido, analisando cobranças, identificando possíveis excessos e buscando os caminhos legais para corrigi-los.",
+    "commitment": "Acredito em uma advocacia próxima, com análise técnica de cada imóvel e clareza sobre as possibilidades, os riscos e cada etapa do atendimento."
+  },
+  "contact": {
+    "whatsapp": "5591991911239",
+    "whatsappMessage": "Olá, Dr. Igor! Vim pelo site da Macedo Marques Advocacia e gostaria de orientação sobre a análise do meu IPTU em Belém.",
+    "instagram": "https://www.instagram.com/igormarques_adv/",
+    "instagramLabel": "@igormarques_adv"
+  },
+  "location": {
+    "city": "Belém/PA",
+    "regions": "Análise de IPTU de imóveis em Belém. Atendimento inicial pelo WhatsApp.",
+    "address": "",
+    "hours": ""
+  },
+  "theme": {
+    "primary": "#c9a66b",
+    "secondary": "#0c1b2c",
+    "style": "Institucional"
+  },
+  "hero": {
+    "title": "Seu IPTU está sendo cobrado a mais?",
+    "description": "Você pode ter direito à revisão da cobrança e à restituição de valores pagos indevidamente. Entenda as possibilidades do seu imóvel com uma análise individual.",
+    "cta": "Analisar meu IPTU"
+  },
+  "services": [
+    {
+      "title": "Revisão do IPTU",
+      "description": "Análise do carnê, dos dados cadastrais e dos critérios de cálculo para identificar possíveis cobranças acima do devido.",
+      "label": "Uma cobrança que merece atenção"
+    },
+    {
+      "title": "Restituição de valores",
+      "description": "Avaliação dos pagamentos anteriores e da possibilidade de solicitar a devolução de valores indevidos, respeitados os prazos legais.",
+      "label": "Um olhar para o que já foi pago"
+    },
+    {
+      "title": "Defesa contra cobranças",
+      "description": "Orientação e atuação administrativa ou judicial para questionar lançamentos considerados indevidos, quando houver fundamento.",
+      "label": "O caminho adequado para cada caso"
+    }
+  ],
+  "signs": [
+    "O IPTU aumentou de forma expressiva de um ano para o outro.",
+    "Os dados do carnê não correspondem às características do imóvel.",
+    "O valor parece muito superior ao de imóveis semelhantes na região.",
+    "Você comprou um imóvel novo ou na planta e quer entender a cobrança."
+  ],
+  "steps": [
+    {
+      "title": "Primeiro contato",
+      "description": "Converse pelo WhatsApp e receba orientação para enviar o carnê de IPTU e os documentos necessários."
+    },
+    {
+      "title": "Análise individual",
+      "description": "São verificados os dados cadastrais, o histórico de cobrança e os comprovantes de pagamento."
+    },
+    {
+      "title": "Orientação clara",
+      "description": "Conheça as possibilidades, os caminhos, os riscos e as condições da atuação antes de decidir."
+    },
+    {
+      "title": "Atuação no caso",
+      "description": "Quando cabível e após a contratação, o pedido administrativo ou judicial é conduzido com acompanhamento em cada etapa."
+    }
+  ],
+  "audiences": [
+    {
+      "title": "Imóveis residenciais",
+      "description": "Casas e apartamentos com cobranças que merecem uma análise cuidadosa."
+    },
+    {
+      "title": "Imóveis comerciais",
+      "description": "Salas, lojas e galpões: o custo tributário também faz parte do seu negócio."
+    },
+    {
+      "title": "Empresas e investidores",
+      "description": "Análise individual dos imóveis que compõem o patrimônio ou a carteira."
+    },
+    {
+      "title": "Imóveis novos",
+      "description": "Orientação para quem comprou na planta ou recebeu os primeiros carnês."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Como saber se meu IPTU em Belém está sendo cobrado a mais?",
+      "answer": "É preciso comparar o carnê, os dados cadastrais e as características do imóvel. Um aumento expressivo ou uma divergência de cadastro pode justificar uma análise, mas não comprova, por si só, que a cobrança é indevida."
+    },
+    {
+      "question": "Meu imóvel é novo. Isso muda alguma coisa?",
+      "answer": "O ano de construção e o histórico cadastral são informações relevantes para a análise. A condição de imóvel novo, isoladamente, não garante redução do imposto. É necessário verificar os critérios utilizados no lançamento."
+    },
+    {
+      "question": "Posso receber de volta o que paguei a mais?",
+      "answer": "Quando há pagamento indevido ou maior que o devido, pode ser cabível pedir restituição. Em regra, o prazo é de cinco anos, conforme o Código Tributário Nacional. A contagem e os valores dependem da análise dos pagamentos e das particularidades do caso."
+    },
+    {
+      "question": "Preciso parar de pagar o IPTU?",
+      "answer": "Não deixe de pagar por conta própria. A falta de pagamento pode gerar encargos e cobrança. A forma de questionar o imposto e qualquer medida sobre sua exigibilidade devem ser avaliadas individualmente pelo advogado."
+    },
+    {
+      "question": "Quais documentos preciso apresentar?",
+      "answer": "Para a análise inicial, tenha o carnê de IPTU. Se disponíveis, também ajudam a matrícula, o habite-se, o contrato de compra e venda e os comprovantes de pagamento anteriores. O envio é orientado pelo advogado durante o atendimento."
+    },
+    {
+      "question": "Quanto tempo demora e como funciona a contratação?",
+      "answer": "O prazo varia conforme a complexidade e o caminho administrativo ou judicial. O escopo, os honorários e as condições são apresentados antes da contratação. Na conversa inicial, você recebe orientação sobre os próximos passos."
+    },
+    {
+      "question": "Preciso ir ao escritório?",
+      "answer": "Você pode iniciar o atendimento pelo WhatsApp e receber orientação para apresentar os documentos à distância. As necessidades das próximas etapas são combinadas conforme o caso."
+    },
+    {
+      "question": "Existe garantia de redução ou restituição?",
+      "answer": "Não há garantia de resultado. Cada caso depende dos documentos, da legislação aplicável e da avaliação das autoridades competentes. O compromisso é com análise técnica, informação clara e atuação responsável."
+    }
+  ],
+  "seo": {
+    "title": "Revisão de IPTU em Belém | Macedo Marques Advocacia",
+    "description": "Análise de IPTU em Belém com Igor Marques, advogado tributarista. Orientação sobre revisão de cobranças e restituição de valores. Atendimento pelo WhatsApp."
+  },
+  "approval": {
+    "approved": false,
+    "readyToPublish": false
+  },
+  "pending": [
+    "Informar número da OAB e UF — usuário respondeu enviar depois.",
+    "Validar o conteúdo jurídico final, especialmente eventual tese sobre imóveis construídos a partir de 2016.",
+    "Informar endereço e horários apenas se desejar divulgar atendimento presencial.",
+    "Fornecer fotos do profissional e marca oficial, se desejar substituir a assinatura tipográfica."
+  ]
+}
